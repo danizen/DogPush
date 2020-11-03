@@ -3,4 +3,3 @@
 from dogpush import dogpush
 
 dogpush.main()
-
